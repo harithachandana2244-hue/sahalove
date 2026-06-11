@@ -146,7 +146,7 @@
 
     <div id="questionArea" class="container">
         <h1>Do you love me? 🥺💕</h1>
-        <p class="warning-text">Don't press no 🤫</p>
+        <p class="warning-text">Click No if you dare😁</p>
         <div class="buttons-wrapper" id="btnWrapper">
             <button id="yesBtn" onclick="showLove()">Yes!</button>
             <button id="noBtn" onmouseover="moveButton(event)" ontouchstart="moveButton(event)" onclick="moveButton(event)">No</button>
